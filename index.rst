@@ -10,8 +10,8 @@ Welcome to MyBlog_SiGao's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-file1
-
+   file1
+   
 Indices and tables
 ==================
 
