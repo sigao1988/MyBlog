@@ -7,11 +7,11 @@ Welcome to MyBlog_SiGao's documentation!
 ========================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Contents:
 
    file1
-   
+
 Indices and tables
 ==================
 
