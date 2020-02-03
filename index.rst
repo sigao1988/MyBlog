@@ -11,6 +11,7 @@ Welcome to MyBlog_SiGao's documentation!
    :caption: Contents:
 
    file1
+   file2
 
 Indices and tables
 ==================

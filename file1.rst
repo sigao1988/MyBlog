@@ -1,13 +1,4 @@
 file1 title1
-========================================
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-
-   file2
-
-Indices and tables
 ==========================================
 段落内容 
 
