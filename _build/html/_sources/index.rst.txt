@@ -10,8 +10,8 @@ Welcome to MyBlog_SiGao's documentation!
    :maxdepth: 3
    :caption: Contents:
 
-   file1
-   file2
+   HowToUseSphnix.rst
+   TextFormat.rst
 
 Indices and tables
 ==================
