@@ -10,6 +10,7 @@ Welcome to MyBlog_SiGao's documentation!
    :maxdepth: 3
    :caption: Contents:
 
+   MatlabRelated.rst
    HowToUseSphnix.rst
    TextFormat.rst
 
