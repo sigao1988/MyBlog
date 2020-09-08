@@ -2,6 +2,7 @@ Styles of text and languages
 ============================
 The format for different text and languages are stored here, see:
 
+-----------------------
 
 RST (reStructured Text)
 -----------------------
@@ -116,3 +117,53 @@ Reference:
 1. https://docutils.sourceforge.io/docs/user/rst/quickref.html
 
 2. https://www.jianshu.com/p/1885d5570b37
+
+-----------------------
+
+MD (Mard Down)
+-----------------------
+.md file is widely used and can be converted to many output formats
+
+:1. Section Structure:
+
+| # Title level 1
+| ## Title level 2
+| ### Title level 3
+| #### Title level 4
+| ##### Title level 5
+| ###### Title level 6
+
+:2. Style: 
+
+| \*italic*
+| \**bold**
+| \`code`
+|
+| ```
+| Block
+| Block
+| ```
+
+:3. Lists and Tables:
+
+| use '-', '+', '*' or '1.' to generate Lists
+| Table:
+| \1 | 2 
+| \--|---
+| \3 | 4
+
+:4. Pictures:
+
+![Emoticons](Adress ''Title'')
+
+:5. Hyperlink:
+
+[Hyperlink Name](Adress "Title")
+
+Reference: 
+
+1. https://en.wikipedia.org/wiki/Markdown
+
+2. https://www.jianshu.com/p/191d1e21f7ed
+
+-----------------------
